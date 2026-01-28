@@ -3,7 +3,7 @@
 This folder contains summaries of key research papers related to multimodal
 question answering and vision-language models.
 
-### Key Papers
+### Key Papers 
 1. CLIP – Learning Transferable Visual Models from Natural Language
 2. ViLBERT – Pretraining Task-Agnostic Visiolinguistic Representations
 3. Flamingo – A Visual Language Model for Few-Shot Learning
